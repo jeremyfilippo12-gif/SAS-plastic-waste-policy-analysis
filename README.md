@@ -40,6 +40,9 @@ This project evaluates the effectiveness of a plastic waste reduction policy in 
 * Waste increase does not necessarily indicate policy failure
 * Supports evidence-based environmental decision making
 
+📌 Key Insight:  
+The policy led to an increase in recorded waste (+2.91%), likely due to improved waste collection and reporting systems rather than increased waste generation.
+
 ## 📂 Project Structure
 
 * `report/` → Full thesis document
