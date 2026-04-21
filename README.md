@@ -45,7 +45,7 @@ The policy led to an increase in recorded waste (+2.91%), likely due to improved
 
 ## 📂 Project Structure
 
-* `report/` → Full thesis document
+* `report/` → Journal Thesis Document
 * `code/` → SAS scripts
 * `README.md` → Project summary
 
