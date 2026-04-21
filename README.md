@@ -46,6 +46,22 @@ This project evaluates the effectiveness of a plastic waste reduction policy in 
 * `code/` → SAS scripts
 * `README.md` → Project summary
 
+## 🧠 Code Highlights
+
+This project includes a complete time series analysis pipeline implemented in SAS:
+
+- Data preprocessing and cleaning
+- Stationarity testing (ADF)
+- ACF & PACF analysis
+- Multiple ARIMA model estimation
+- Model selection using AIC & SBC
+- Intervention analysis (step, pulse, combined, gradual)
+- Residual diagnostics (white noise & normality)
+- 24-month forecasting
+- Export of analytical results
+
+The code reflects a full end-to-end analytical workflow from raw data to actionable insights.
+
 ## 🚀 Future Improvements
 
 * Convert model to Python (statsmodels)
